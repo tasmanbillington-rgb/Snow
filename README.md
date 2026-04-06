@@ -22,3 +22,5 @@ No one is responsible for you using the cheat, getting banned, or anything to do
 8. Open BasicESP
 
 !All done, check out everything to fully understand it!
+
+Change the name in the cheat to your name, it shows mine as default, and I think it default shows the time I had at the time plus my config I was using if you load "Normal"
